@@ -2,6 +2,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello IT242 WEBPROG World!</h1>
+      <h2>We are on a learning journey...</h2>
     </div>
   );
 }
